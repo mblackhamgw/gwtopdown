@@ -5,4 +5,4 @@ This repository contains source python code as well as Linux and Windows binarie
 
   gwtopdown(.exe) <configfile>
   
-  A sample config file is include.  Edit it to reflect the settings of your GroupWise Admin service.
+  A sample config file is included.  Edit it to reflect the settings of your GroupWise Admin service.
